@@ -19,9 +19,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/driver" />
+            <option value="$PROJECT_DIR$/app/user" />
             <option value="$PROJECT_DIR$/build-logic" />
-            <option value="$PROJECT_DIR$/list" />
-            <option value="$PROJECT_DIR$/utilities" />
           </set>
         </option>
       </GradleProjectSettings>

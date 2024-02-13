@@ -17,4 +17,5 @@ plugins {
 }
 
 rootProject.name = "cab-booking-kafka"
-include("app", "list", "utilities")
+include("app:driver")
+include("app:user")
