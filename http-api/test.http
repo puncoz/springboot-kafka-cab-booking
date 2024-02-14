@@ -1,0 +1,3 @@
+### PUT request to update location
+PUT http://localhost:8081/location
+Accept: application/json
