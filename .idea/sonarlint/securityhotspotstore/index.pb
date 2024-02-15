@@ -56,3 +56,5 @@ Sapp/driver/src/main/java/com/practice/cabbookingkafkadriver/config/KafkaConfig.
 Uapp/driver/src/main/java/com/practice/cabbookingkafkadriver/constant/AppConstant.java,3/2/3265093e68d7147f5f12fbe897b258deec47ea10
 B
 http-api/test.http,b/6/b67fef7fd896016f64bb4b2e6ee14366865f5d2e
+„
+Tapp/user/src/main/java/com/practice/cabbookingkafkauser/service/LocationService.java,1/5/156f7b7e0b0425f15cf4ed4d52414ff9c42704ae
